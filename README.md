@@ -57,7 +57,7 @@ Konsol adalah bagian untukmu melakukan pekerjaan atau menjalan perintah/komando 
 
 Mekipun begitu, setelah kamu menulis lagi beberapa kode R, tampilannya akan semakin semwrawut. Selain menulis langsung kode R mu ke Konsol, cara yang lebih baik ialah menggunakan R Script. R Script hanyalah sebuah file tulisan biasa namun menggunakan ekstensi `.R` yang berisikan kode R mu. Kode-kode yang ada pada R Script tersebut kemudian akan dijalankan ke R Konsol. Untuk membuat R Script, pergi ke menu "File" kemudian pilih "New File" -> "R Script".
 <br>
-<div align="center"><img src="/Assets/RScript.png" alt="Menu to create R Script." style="height:280px; width:600px;"/></div><br>
+<div align="center"><img src="/Assets/RScript.png" alt="Menu to create R Script." style="height:230px; width:600px;"/></div><br>
 
 
 ## Bab 2 - Dasar-dasar Bahasa Pemprograman R
