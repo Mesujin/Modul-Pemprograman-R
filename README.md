@@ -65,7 +65,9 @@ Perhatikan bahwa akan ada window atau "pane" baru yang akan muncul (disebut "Sou
 
 Untuk menjalankan atau memasukan kodemu dari R Script atau Script Editor, letakkan cursor atau mouse mu di baris kode mu kemudian klik "Run" di bagian atasnya.
 <br>
-<div align="center"><img src="/Assets/Run.png" alt="Run in Script Editor." style="height:200px; width:400px;"/></div><br>
+<div align="center"><img src="/Assets/Run.png" alt="Run in Script Editor." style="height:200px; width:430px;"/></div><br>
+
+Seharusnya akan muncul hasilnya di Konsol. Jika kamu lelah selalu menekan "Run" untuk menjalankan kodenya, cukup tekan "Ctrl + Enter" (untuk Windows dan Linux) atau "cmd + Enter" (pada Mac). Kamu bisa menyimpan R Script mu sebagai sebuah file dengan ekstensi `.R` dengan memilih menu "File" kemudian "Save". Perhatikan bahwa nama file yang ada di tab diatas akan berwarna merah yang menandakan ada perubahan pada file yang belum disimpan. Untuk membuka R Script mu di RStudio pilih menu "File" kemudian "Open File..". Sebagai pengingat, file dengan ekstensi `.R` bukan berarti harus dibuka dengan RStudio, akan tetapi bisa dibuka diaplikasi pembuka teks biasa manapun.
 
 ## Bab 2 - Dasar-dasar Bahasa Pemprograman R
 Pada bab ini, akan dikenalkan bagaimana menggunakan R dan RStudio untuk menjalankan hal-hal mendasar dari R seperti membuat "Object" dan memberi nilai kepada "Object", mengekplorasi jenis-jenis "Object" dan menjalankan beberapa operasi dasar pada "Object". Kita juga akan belajar bagaimana bertanya perihal R dan mendapatkan beberapa sumber yang mampu membantumu dalam mempelajari R. Tidak lupa, cara bagaimana menyimpan hasil kerja mu.
