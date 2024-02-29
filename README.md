@@ -55,6 +55,10 @@ Konsol adalah bagian untukmu melakukan pekerjaan atau menjalan perintah/komando 
 <br>
 <div align="center"><img src="/Assets/2+2.png" alt="RStudio's main interface." style="height:280px; width:600px;"/></div><br>
 
+Mekipun begitu, setelah kamu menulis lagi beberapa kode R, tampilannya akan semakin semwrawut. Selain menulis langsung kode R mu ke Konsol, cara yang lebih baik ialah menggunakan R Script. R Script hanyalah sebuah file tulisan biasa namun menggunakan ekstensi `.R` yang berisikan kode R mu. Kode-kode yang ada pada R Script tersebut kemudian akan dijalankan ke R Konsol. Untuk membuat R Script, pergi ke menu "File" kemudian pilih "New File" -> "R Script".
+<br>
+<div align="center"><img src="/Assets/RScript.png" alt="Menu to create R Script." style="height:280px; width:600px;"/></div><br>
+
 
 ## Bab 2 - Dasar-dasar Bahasa Pemprograman R
 Pada bab ini, akan dikenalkan bagaimana menggunakan R dan RStudio untuk menjalankan hal-hal mendasar dari R seperti membuat "Object" dan memberi nilai kepada "Object", mengekplorasi jenis-jenis "Object" dan menjalankan beberapa operasi dasar pada "Object". Kita juga akan belajar bagaimana bertanya perihal R dan mendapatkan beberapa sumber yang mampu membantumu dalam mempelajari R. Tidak lupa, cara bagaimana menyimpan hasil kerja mu.
