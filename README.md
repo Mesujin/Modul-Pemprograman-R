@@ -3,8 +3,8 @@
 Ditranslate oleh Ilman M a.k.a. Mesujin
 </div>
 
-## Bab 1 - Pengenalan
-#### 1. Penginstallasian Bahasa R
+## Bab 1 - Pengenalan R
+#### 1. Penginstallasian Dasar Untuk R
 Hal pertama yang harus dilakukan ialah menginstall bahasa pemprograman yakni "R". R adalah bahasa pemprograman yang tersedia secara gratis untuk OS Windows, Mac, dan juga Linux yang disediakan oleh situs [Comprehensive R Archive Network (CRAN)](https://cloud.r-project.org/). Untuk pengguna Windows dan Mac, kami menyarankan untuk mengunduh dan menginstal versi "pre-compiled binary" nya.
 
 #### 1.1 Untuk pengguna Windows
@@ -22,7 +22,31 @@ plot(1:10)
 ```
 Result :<br>
 <div align="center"><img src="/Assets/plot(1-10).png" alt="Result for the code." style="height:400px; width:400px;"/></div>
+<br>
+Sebuah "plot" dengan nilai dari 1 hingga 10 pada kedua x dan y seharusnya muncul. Jika "window" tersebut muncul, maka aplikasi R tersebut berjalan dengan baik, jika tidak, kami menyarankan untuk mencari catatan hasil dari "error" yang muncul di Google untuk menindaklanjuti masalah yang ada.
 
+#### 2. Menginstal RStudio
+
+Walaupun hanya dengan menggunakan installasi dasar saja sebenarnya cukup, kita akan menggunakan sebuah Integrated Development Envoriment (IDE) yang cukup terkenal yakni RStudio. Kamu bisa anggap RStudio sebagai tambahan karena memiliki tampilan yang lebih mudah dipahami,
+
+## Bab 2 - Dasar-dasar Bahasa Pemprograman R
+Pada bab ini, akan dikenalkan bagaimana menggunakan R dan RStudio untuk menjalankan hal-hal mendasar dari R seperti membuat "Object" dan memberi nilai kepada "Object", mengekplorasi jenis-jenis "Object" dan menjalankan beberapa operasi dasar pada "Object". Kita juga akan belajar bagaimana bertanya perihal R dan mendapatkan beberapa sumber yang mampu membantumu dalam mempelajari R. Tidak lupa, cara bagaimana menyimpan hasil kerja mu.
+
+Sebelum kita melanjutkan ke materi, ada beberapa hal yang harus kamu perhatikan di bab ini :
+> R merupakan bahasa pemerograman yang memperhatikan huruf-hurufnya, dengan kata lain `A` tidak sama dengan `a` yang mana `anova` tidak sama dengan `Anova`.
+
+Apapun yang ada setelah simbol `#` tidak akan dianggap oleh R atau disebut sebagai komentar di dalam kode. Sebuah komentar seharusnya berfungsi sebagai bahan untuk mengungkapkan pendapat atau sebagai informasi baik untuk dirimu sendiri atau orang lain. Menulis komentar merupakan sebuah `art` dan sesuatu yang seharusnya menjadi kebiasaan kedepannya.
+
+>Dalam R, pada dasarnya setiap perintah atau komando akan dipisah oleh barisan baru. Tetapi titik koma `;` juga bisa berfungsi untuk memisahkan setiap perintah atau komando mu, walaupun jarang digunakan.
+
+Jika ada "continuation prompt" yang disimbolkan dengan `+` pada konsol mu, itu berarti kamu belum menyelesaikan kode mu dengan benar. Hal ini biasanya terjadi jika kamu lupa mengakhiri buka kurung `{` dengan tutup kurung `}` akibat menumpuk tanda tersebut seperti `{{{{beberapa kode}}}}`. cukup selesaikan perintah atau komando nya pada baris baru dan perbaiki "typo" mu atau tekan "Esc" pada keyboard mu (perhatikan kalimat dibawah) lalu perbaiki.
+
+>Pada dasarnya, R cukup mentolelir spasi-spasi berlebihan yang ada pada kode mu, pada kenyataanya menggunakan spasi yang banyak adalah hal yang baik. Meskipun begitu, spasi tersebut tidak boleh dimasukkan kedalam operator, dengan kata lain "` <-`" tidak boleh dibaca seperti "`<-`" (perhatikan spasinya). Silakan cari di Google terkait "style guide" untuk bantuan mengenai peletakan spasi pada kode mu sehingga kode mu mudah dibaca.
+
+Jika konsol mu "hangs" dan menjadi "unresponsive" setelah atau ketika menjalankan beberapa kode, tekan "Esc" pada keyboard mu untuk menghindari masalah tersebut, atau bisa juga dengan menekan ikon "Stop" yang ada pada bagian atas konsol. Hal ini akan men-"Terminate" operasi-operasi yang sedang berjalan.
+
+#### 1. Cara Kerja
+Pada bagian "Editor"
 
 <br>
 <br>
