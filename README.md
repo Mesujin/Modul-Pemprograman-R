@@ -27,7 +27,21 @@ Sebuah "plot" dengan nilai dari 1 hingga 10 pada kedua x dan y seharusnya muncul
 
 #### 2. Menginstal RStudio
 
-Walaupun hanya dengan menggunakan installasi dasar saja sebenarnya cukup, kita akan menggunakan sebuah Integrated Development Envoriment (IDE) yang cukup terkenal yakni RStudio. Kamu bisa anggap RStudio sebagai tambahan karena memiliki tampilan yang lebih mudah dipahami,
+Walaupun hanya dengan menggunakan installasi dasar saja sebenarnya cukup, kita akan menggunakan sebuah Integrated Development Envoriment (IDE) yang cukup terkenal yakni RStudio. Kamu bisa anggap RStudio sebagai tambahan karena memiliki tampilan yang lebih mudah dipahami, penggabunggan konsol R, "script editor", dan fungsi berguna lainnya (seperti R Markdown dan penghubungan ke GitHub).
+
+RStudio tersedia gratis untuk OS Windows, Mac, dan Linux yang dapat diunduh dari situs [RStudio](https://posit.co/download/rstudio-desktop/). Pilihlah versi "RStudio Desktop". Perlu dicatat bahwa R harus diinstal sebelumnya (lihat bagian sebelumnya untuk detailnya).
+
+#### 2.1 Untuk Pengguna Windows
+Untuk Windows, kamu seharusnya akan melihat link yang jelas untuk pengunduhan. Atau gunakan link berikut untuk pengunduhannya ;
+
+> https://download1.rstudio.org/electron/windows/RStudio-2023.12.1-402.exe
+
+Jika pada situs RStudio tidak muncul versi "RStudio Desktop", scroll ke bawah pada bagian "All Installers".
+
+#### 2.2 Pengetesan RStudio
+Setelah terinstall, kamu bisa mengecek apakah semuanya berjalan lancar atau tidak dengan menjalankan RStudio (tidak perlu menjalankan R juga, cukup RStudio). Kamu seharusnya dapat melihat tampilan seperti gambar dibawah (akan ada sedikit perbedaan jika kamu menggunakan OS Linux atau Mac.).<br>
+<div align="center"><img src="/Assets/plot(1-10).png" alt="Result for the code." style="height:400px; width:400px;"/></div>
+<br>
 
 ## Bab 2 - Dasar-dasar Bahasa Pemprograman R
 Pada bab ini, akan dikenalkan bagaimana menggunakan R dan RStudio untuk menjalankan hal-hal mendasar dari R seperti membuat "Object" dan memberi nilai kepada "Object", mengekplorasi jenis-jenis "Object" dan menjalankan beberapa operasi dasar pada "Object". Kita juga akan belajar bagaimana bertanya perihal R dan mendapatkan beberapa sumber yang mampu membantumu dalam mempelajari R. Tidak lupa, cara bagaimana menyimpan hasil kerja mu.
