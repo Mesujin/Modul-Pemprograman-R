@@ -20,6 +20,9 @@ R Script :
 ```R
 plot(1:10)
 ```
-Result :
+Result :<br>
+<div align="center"><img src="/Assets/plot(1-10).png" alt="Result for the code." style="height:400px; width:400px;"/></div>
+
+
 <br>
 <br>
