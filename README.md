@@ -59,6 +59,10 @@ Mekipun begitu, setelah kamu menulis lagi beberapa kode R, tampilannya akan sema
 <br>
 <div align="center"><img src="/Assets/RScript.png" alt="Menu to create R Script." style="height:230px; width:600px;"/></div><br>
 
+Perhatikan bahwa akan ada window atau "pane" baru yang akan muncul (disebut "Source Pane") di kiri atas dan sekarang konsolnya menjadi berada di kiri bawah. Window baru ini adalah sebuah pengedit script untuk R Script dan tempatmu untuk menulis kode mu.
+<br>
+<div align="center"><img src="/Assets/ScriptEditor.png" alt="New Window, Script Editor." style="height:400px; width:600px;"/></div><br>
+
 
 ## Bab 2 - Dasar-dasar Bahasa Pemprograman R
 Pada bab ini, akan dikenalkan bagaimana menggunakan R dan RStudio untuk menjalankan hal-hal mendasar dari R seperti membuat "Object" dan memberi nilai kepada "Object", mengekplorasi jenis-jenis "Object" dan menjalankan beberapa operasi dasar pada "Object". Kita juga akan belajar bagaimana bertanya perihal R dan mendapatkan beberapa sumber yang mampu membantumu dalam mempelajari R. Tidak lupa, cara bagaimana menyimpan hasil kerja mu.
