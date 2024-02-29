@@ -53,7 +53,7 @@ Window yang besar (atau dikenal "pane") pada bagian kiri adalah Konsol. "Pane" p
 #### 3.1 R Konsol
 Konsol adalah bagian untukmu melakukan pekerjaan atau menjalan perintah/komando yang ada di R. Dibagian ini R akan mengevaluasi/membaca semua kode yang kamu tulis. Kamu bisa menuliskan secara langsung kode R didepan "command line prompt" yang disimbolkan dengan `>`. Sebagai contoh, jika kamu mengetik `2 + 2` kedalam konsol tersebut kemudian Enter atau jalankan kodenya, akan muncul jawaban `4`. Jangan khawatir tentang `[1]` yang akan muncul, itu hanya penanda awal barisan.
 <br>
-<div align="center"><img src="/Assets/2+2.png" alt="RStudio's main interface." style="height:300px; width:600px;"/></div><br>
+<div align="center"><img src="/Assets/2+2.png" alt="RStudio's main interface." style="height:280px; width:600px;"/></div><br>
 
 
 ## Bab 2 - Dasar-dasar Bahasa Pemprograman R
