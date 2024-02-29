@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Modul Pemprograman Bahasa R </h2>
-Ditranslate oleh Ilman M a.k.a. Mesujin
+Di translate oleh Ilman M a.k.a. Mesujin
 </div>
 
 ## Bab 1 - Pengenalan R
@@ -39,9 +39,22 @@ Untuk Windows, kamu seharusnya akan melihat link yang jelas untuk pengunduhan. A
 Jika pada situs RStudio tidak muncul versi "RStudio Desktop", scroll ke bawah pada bagian "All Installers".
 
 #### 2.2 Pengetesan RStudio
-Setelah terinstall, kamu bisa mengecek apakah semuanya berjalan lancar atau tidak dengan menjalankan RStudio (tidak perlu menjalankan R juga, cukup RStudio). Kamu seharusnya dapat melihat tampilan seperti gambar dibawah (akan ada sedikit perbedaan jika kamu menggunakan OS Linux atau Mac.).<br>
-<div align="center"><img src="/Assets/RStudio.png" alt="RStudio's main interface." style="height:400px; width:700px;"/></div>
+Setelah terinstall, kamu bisa mengecek apakah semuanya berjalan lancar atau tidak dengan menjalankan RStudio (tidak perlu menjalankan R juga, cukup RStudio). Kamu seharusnya dapat melihat tampilan seperti gambar dibawah (akan ada sedikit perbedaan jika kamu menggunakan OS Linux atau Mac.).
 <br>
+<div align="center"><img src="/Assets/RStudio.png" alt="RStudio's main interface." style="height:400px; width:600px;"/></div>
+
+#### 3. Pengelnalan RStudio
+Ketika kamu membuka RStudio untuk pertama kalinya, kamu seharusnya dapat melihat tampilan seperti gambar dibawah (akan sedikit berbeda untuk pengguna OS Mac dan Linux).
+<br>
+<div align="center"><img src="/Assets/RStudio.png" alt="RStudio's main interface." style="height:400px; width:600px;"/></div><br>
+
+Window yang besar (atau dikenal "pane") pada bagian kiri adalah Konsol. "Pane" pada bagian kanan atas adalah untuk "Environment" / "History" / "Connection" dan dibagian bawahnya adalah untuk "Files" / "Plots" / "Packages" / "Help" / "Help". Setiap "pane" atau window-nya akan dibahas secara bertahap dibawah. Letak posisi setiap "pane"-nya dapat kamu kostumisasi semaumu dengan mengklik pada menu "Tools" kemudian "Global Options" -> "Pane Layout". Kamu juga bisa mengatur ukurannya dengan mengklik bagian ujung "pane"-nya kemudian menggesernya kearah yang kamu mau. Masih ada banyak cara lain untuk mengkostumisasi tampilan RStudio.
+
+#### 3.1 R Konsol
+Konsol adalah bagian untukmu melakukan pekerjaan atau menjalan perintah/komando yang ada di R. Dibagian ini R akan mengevaluasi/membaca semua kode yang kamu tulis. Kamu bisa menuliskan secara langsung kode R didepan "command line prompt" yang disimbolkan dengan `>`. Sebagai contoh, jika kamu mengetik `2 + 2` kedalam konsol tersebut kemudian Enter atau jalankan kodenya, akan muncul jawaban `4`. Jangan khawatir tentang `[1]` yang akan muncul, itu hanya penanda awal barisan.
+<br>
+<div align="center"><img src="/Assets/2+2.png" alt="RStudio's main interface." style="height:200px; width:350px;"/></div><br>
+
 
 ## Bab 2 - Dasar-dasar Bahasa Pemprograman R
 Pada bab ini, akan dikenalkan bagaimana menggunakan R dan RStudio untuk menjalankan hal-hal mendasar dari R seperti membuat "Object" dan memberi nilai kepada "Object", mengekplorasi jenis-jenis "Object" dan menjalankan beberapa operasi dasar pada "Object". Kita juga akan belajar bagaimana bertanya perihal R dan mendapatkan beberapa sumber yang mampu membantumu dalam mempelajari R. Tidak lupa, cara bagaimana menyimpan hasil kerja mu.
