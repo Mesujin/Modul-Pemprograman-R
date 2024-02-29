@@ -40,7 +40,7 @@ Jika pada situs RStudio tidak muncul versi "RStudio Desktop", scroll ke bawah pa
 
 #### 2.2 Pengetesan RStudio
 Setelah terinstall, kamu bisa mengecek apakah semuanya berjalan lancar atau tidak dengan menjalankan RStudio (tidak perlu menjalankan R juga, cukup RStudio). Kamu seharusnya dapat melihat tampilan seperti gambar dibawah (akan ada sedikit perbedaan jika kamu menggunakan OS Linux atau Mac.).<br>
-<div align="center"><img src="/Assets/plot(1-10).png" alt="Result for the code." style="height:400px; width:400px;"/></div>
+<div align="center"><img src="/Assets/RStudio.png" alt="RStudio's main interface." style="height:400px; width:400px;"/></div>
 <br>
 
 ## Bab 2 - Dasar-dasar Bahasa Pemprograman R
